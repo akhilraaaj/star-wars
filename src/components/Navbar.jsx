@@ -11,7 +11,7 @@ const Navbar = () => {
           <img src={logo} alt="" width={35} height={35} className="ml-2" />
         </Link>
         <div className="flex px-4">
-          <a href="http://github.com/akhilraaaj" target='_blank'>
+          <a href="https://github.com/akhilraaaj/star-wars" target='_blank'>
             <img src={GitHub} alt="" width={35} height={35} />
           </a>
         </div>
